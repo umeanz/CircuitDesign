@@ -25,12 +25,12 @@ Def:한 코일의 전류가 다른 코일에 전압을 유도하는 현상</br>
 - 감압(Step-down transformer): N<1
 - 절연(Isolation transformer): N = 1
 ### Transformers conserve power(에너지 보존)
-$$
+$
 S_{1} = V_{1} I_{1}^{*}
 = \frac{V_{2}}{n}(n I_{2})^{*}
 = V_{2} I_{2}^{*}
 = S_{2}
-$$
+$</br>
 in  here the *(asterics) for complex conjugate.
 - S = Complex Power 
 - V = Voltage <span style='color:red'>Phasor</sapn>
