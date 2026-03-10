@@ -4,4 +4,4 @@ Circuit Design for Mechatronics
 
 See the notes here:
 
-[Midterm 2 Summary](Midter2.md)
+[Midterm 2 Summary](midter2.md)
